@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Application Settings Example</string>
+    <string name="info_txt">Application settings are listed below:</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="pref_country_names">
+        <item>Finland</item>
+        <item>England</item>
+    </string-array>
+</resources>
